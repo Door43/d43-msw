@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[msw:home|Door43 (msw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-msw|d43-msw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-msw/archive/master.zip|d43-msw.zip]]
+
+**Recent Changes**
+{{changes>ns = msw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/msw|Ethnologue data]]
+
